@@ -7,7 +7,7 @@ require (
 	github.com/anchore/syft v0.44.1
 	github.com/golangci/golangci-lint v1.45.2
 	github.com/google/go-github/v36 v36.0.0
-	github.com/goreleaser/goreleaser v1.8.2
+	github.com/goreleaser/goreleaser v1.8.3
 	github.com/magefile/mage v1.13.0
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/pkg/errors v0.9.1
